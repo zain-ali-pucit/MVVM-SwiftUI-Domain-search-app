@@ -8,7 +8,6 @@ The app will allow users to:
 **API to Use**
 
 Search Endpoint: https://api.domainsdb.info/v1/domains/search?domain=facebook&zone=com
-
 API Documentation: https://api.domainsdb.info/v1/
 
 **Code Quality**
