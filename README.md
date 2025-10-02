@@ -6,8 +6,10 @@ The app will allow users to:
   - Provide a mock “purchase” flow with a confirmation screen.
 
 **API to Use**
-Search Endpoint: (https://api.domainsdb.info/v1/domains/search?domain=facebook&zone=com)
-API Documentation: (https://api.domainsdb.info/v1/)
+
+Search Endpoint: https://api.domainsdb.info/v1/domains/search?domain=facebook&zone=com
+
+API Documentation: https://api.domainsdb.info/v1/
 
 **Code Quality**
   - Clean, well-structured, and testable code.
